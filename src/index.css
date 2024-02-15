@@ -1,19 +1,19 @@
-:root{
+:root {
   --primaryColor: #333;
   --secondColor: #8e8e93;
   --mainRed: #c93400;
-  --mainBlue: #248a3d;
+  --mainGreen: #248a3d;
   --mainBlue: #0071a4;
   --mainWhite: #fff;
 }
 * {
   box-sizing: border-box;
 }
-body{
+body {
   background: var(--primaryColor);
   color: var(--secondColor);
 }
-.btn{
+.btn {
   text-align: center;
   font-size: 15px;
   display: block;

@@ -1,7 +1,18 @@
 import React from 'react'
 
-export const func = () => {
+const func = () => {
   return (
-    <div>func</div>
+    <div>
+      
+    </div>
   )
 }
+
+export default func
+
+
+
+
+
+
+
